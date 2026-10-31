@@ -88,11 +88,11 @@ Confira alguns dos meus projetos:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasLacerda1&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"/>
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LucasLacerda1&theme=tokyonight"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasLacerda1&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=LucasLacerda1&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img src="https://streak-stats.demolab.com?user=LucasLacerda1&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasLacerda1&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -101,15 +101,10 @@ Confira alguns dos meus projetos:
 ### 📫 Contato
 
 <p>
+  <a href="mailto:lacerdafreire86@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
   <a href="https://github.com/LucasLacerda1">
     <img src="https://img.shields.io/badge/GitHub-LucasLacerda1-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
-
----
-
-<div align="center">
-
-**"Sempre curioso, sempre aprendendo e sempre construindo."**
-
-</div>
